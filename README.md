@@ -1,6 +1,6 @@
 # mcts-2048
 
-This academic project aims to observe the benefits a 2048 game solver can derive by nesting Monte-Carlo simulations. It was co-developed with github.com/emmaamblard.
+This academic project aims to observe the benefits a 2048 game solver can derive by nesting Monte-Carlo simulations. It was co-developed with [Emma Amblard](https://github.com/emmaamblard).
 
 ## References
 
